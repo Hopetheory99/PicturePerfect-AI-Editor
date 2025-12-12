@@ -1,0 +1,5 @@
+{
+  "name": "PicturePerfect AI Editor",
+  "description": "An intuitive web-based image editor with AI-powered inpainting features. Upload your images, make adjustments, and use AI to seamlessly modify parts of your picture.",
+  "requestFramePermissions": []
+}
